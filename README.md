@@ -1,4 +1,4 @@
-Branchy Lambda with Chalice
+Lambda with Chalice
 ==============================
 
 This projetc is to use a chalice framework to create, and deploy the lambda function[a news crawler] to AWS.
