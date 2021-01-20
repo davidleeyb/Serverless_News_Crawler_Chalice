@@ -1,0 +1,4 @@
+boto3==1.16.53
+chalice==1.21.8
+nltk==3.5
+requests-aws4auth==1.0.1
